@@ -1,7 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Framework](https://img.shields.io/badge/framework-BotKit-purple)
+
 ---
-
-## ✅ BotKit · README.md
-
 ```markdown
 # 🤖 BotKit
 
@@ -21,7 +22,7 @@ BotKit — это обучающий фреймворк для создания 
 
 ## 🧩 Быстрый старт
 
-git clone https://github.com/yourname/BotKit.git  # Клонируем репозиторий
+git clone https://github.com/Mihhail327/BotKiT  # Клонируем репозиторий
 cd BotKit                                         # Переходим в директорию проекта
 pip install -r requirements.txt                  # Устанавливаем зависимости
 python main.py                                   # Запускаем бота
